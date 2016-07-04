@@ -1,4 +1,4 @@
-# Emulib - Preserve, Organize, Create
+# Emulib - Preserve, Play, Create
 
 # Laravel PHP Framework
 
