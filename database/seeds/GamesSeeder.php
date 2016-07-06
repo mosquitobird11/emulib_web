@@ -81,5 +81,33 @@ class GamesSeeder extends Seeder
         	]
         ]);
 
+        DB::table('nes_hashs')->insert()([
+            [
+                'game_id' => 3,
+                'hash_type' => 'sha1',
+                'hash' => 'a03e7e526e79df222e048ae22214bca2bc49c449',
+                'variation_name' => '(USA)',
+                'description' => 'The original North american release of smb3'
+            ],
+            [
+                'game_id' => 3,
+                'hash_type' => 'sha1',
+                'hash' => '6bd518e85eb46a4252af07910f61036e84b020d1',
+                'variation_name' => '(USA) Revision A',
+                'description' => 'The revised North american release of smb3'
+            ]
+        ]);
+
+        DB:table('nes_specs')->insert([
+            [
+                'game_id' => 3,
+                'mapper_number' => 4,
+                'mapper_name' => 'Nintendo MMC3',
+                'prg' => '16 x 16kB',
+                'chr' => '16 x 8kB',
+                'mirroring' => 1
+            ]
+        ]);
+
     }
 }
