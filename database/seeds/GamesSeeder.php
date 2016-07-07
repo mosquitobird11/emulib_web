@@ -81,7 +81,7 @@ class GamesSeeder extends Seeder
         	]
         ]);
 
-        DB::table('nes_hashs')->insert()([
+        DB::table('nes_hashs')->insert([
             [
                 'game_id' => 3,
                 'hash_type' => 'sha1',
@@ -98,7 +98,7 @@ class GamesSeeder extends Seeder
             ]
         ]);
 
-        DB:table('nes_specs')->insert([
+        DB::table('nes_specs')->insert([
             [
                 'game_id' => 3,
                 'mapper_number' => 4,
