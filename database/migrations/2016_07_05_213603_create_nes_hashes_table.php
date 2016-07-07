@@ -3,7 +3,7 @@
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateNesHashsTable extends Migration
+class CreateNesHashesTable extends Migration
 {
     /**
      * Run the migrations.
@@ -12,7 +12,7 @@ class CreateNesHashsTable extends Migration
      */
     public function up()
     {
-        Schema::create('nes_hashs', function (Blueprint $table) {
+        Schema::create('nes_hashes', function (Blueprint $table) {
             $table->increments('id');
             $table->integer('game_id');
             $table->string('hash_type');
@@ -20,7 +20,7 @@ class CreateNesHashsTable extends Migration
             $table->string('variation_name')->nullable();
             $table->text('description')->nullable();
         });
-        Schema::table('nes_hashs', function ($table){
+        Schema::table('nes_hashes', function ($table){
             $table->foreign('game_id')->references('id')->on('games');
         });
     }
@@ -32,6 +32,6 @@ class CreateNesHashsTable extends Migration
      */
     public function down()
     {
-        Schema::drop('nes_hashs');
+        Schema::drop('nes_hashes');
     }
 }
