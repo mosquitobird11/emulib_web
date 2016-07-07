@@ -109,5 +109,14 @@ class GamesSeeder extends Seeder
             ]
         ]);
 
+        DB::table('arts')->insert([
+            [
+                'game_id' => 3,
+                'theme_id' => 1,
+                'type' => 'Main',
+                'filename' => 'nes_supermariobros3.jpg'
+            ]
+        ]);
+
     }
 }

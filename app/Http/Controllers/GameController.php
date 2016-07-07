@@ -11,6 +11,9 @@ use App\Type;
 use App\NesBasic;
 use App\NesSpecs;
 use App\NesHash;
+use App\NesCheat;
+use App\NesAchievement;
+use App\Art;
 
 class GameController extends Controller
 {
@@ -42,7 +45,24 @@ class GameController extends Controller
     		//Get Nes Hashes
     		$hashes = NesHash::where('game_id','=',$game->id)->get();
 
-    		return view('nes_game', ['game' => $game, 'basic' => $basic, 'specs' => $specs, 'hashes' => $hashes]);
+    		//Get Nes Cheats
+    		$cheats = NesCheat::where('game_id','=',$game->id)->get();
+
+    		//Get Nes Achievements
+    		$achievements = NesAchievement::where('game_id','=',$game->id)->get();
+
+    		//Get Main Art
+    		$main_art = Art::where('game_id','=',$game->id)->where('type','=','Main')->first();
+
+    		return view('nes_game', [
+    			'game' => $game,
+    			'basic' => $basic,
+    			'specs' => $specs,
+    			'hashes' => $hashes,
+    			'achievements' => $achievements,
+    			'cheats' => $cheats,
+    			'main_art' => $main_art
+    		]);
     	}
 
     }
