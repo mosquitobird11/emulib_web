@@ -1,9 +1,10 @@
 @extends('layouts.master')
 
-@section('title', 'Page Title')
+@section('title', 'Games List')
 
 @section('content')
-    @foreach ($games as $game)
-        <p>{{$game->name}}</p>
+    <h2>NES</h2>
+    @foreach ($nes_games as $nes_game)
+        <a href="{{url('game/3')}}"><p>{{$nes_game->name}}</p></a>
     @endforeach
 @endsection
