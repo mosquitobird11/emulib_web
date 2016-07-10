@@ -8,6 +8,8 @@
         <title>Emulib - @yield('title')</title>
        	<!-- Include Bootstrap CSS -->
 		<link href="{{asset('css/bootstrap.min.css')}}" rel="stylesheet">
+		<!-- Include Master CSS -->
+		<link href="{{asset('css/master.css')}}" rel="stylesheet">
 		@yield('local_css')
     </head>
     <body>

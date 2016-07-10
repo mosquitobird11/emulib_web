@@ -1,0 +1,40 @@
+.container{
+    margin-top:32px;
+    margin-bottom:32px;
+   	padding:16px;
+    border: 2px solid #c0c0c0;
+    border-radius: 4px;
+    background-color:white;
+}
+
+.listhead{
+    text-align:center;
+}
+
+.caption{
+    text-align:center;
+}
+
+.sidebar{
+	text-align:center;
+	border: 1px solid #DDDDDD;
+	padding:8px;
+}
+
+.side-section{
+	text-align: left;
+	margin-left:32px;
+}
+
+.sidebar h4{
+	border-top: 1px solid #DDDDDD;
+	border-bottom: 1px solid #DDDDDD;
+	padding-top:4px;
+	padding-bottom:4px;
+}
+
+.hashblock{
+	background-color:#EEEEEE;
+	border: 1px dashed #C0C0C0;
+	margin-bottom:8px;
+}
