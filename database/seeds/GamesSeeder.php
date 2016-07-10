@@ -34,9 +34,7 @@ class GamesSeeder extends Seeder
         DB::table('nes_basics')->insert([
         	[
         		'id' => 1,
-        		'game_id' => 3,
-        		'short' => 'Super mario bros. 3 is good',
-        		'long' => 'It is really really really really really good'
+        		'game_id' => 3
         	]
         ]);
 

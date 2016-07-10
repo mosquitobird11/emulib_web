@@ -91,7 +91,7 @@
 			<li>CHR: {{$specs->prg}} </li>
 			<li>Mirroring: {{$specs->mirroring == 1 ? 'Horizontal' : 'Vertical'}} </li>
 		</div>
-		<h4>Hashes</h4>
+		<h4>Known Hashes</h4>
 			@foreach ($hashes as $hash)
 			<div class="hashblock">
 				<h5>{{$hash->variation_name}} - {{$hash->hash_type}}</h5>
