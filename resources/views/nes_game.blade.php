@@ -73,16 +73,20 @@
 
 	<div class="col-md-4 sidebar">
 		<img src="{{asset('img/'.$main_art->filename)}}" width="250">
-		<h4>Summary</h4>
-		<div class="side-section">
-			<p>{{$basic->short}}</p>
-		</div>
-		<h4>Releases</h4>
-		<div class="side-section">
-			@foreach ($releases as $release)
-				<p>{{$release->region}}: {{jdmonthname($release->month,0)}} {{$release->day}}, {{$release->year}}</p>
-			@endforeach
-		</div>
+		@if ($basic->short)
+			<h4>Summary</h4>
+			<div class="side-section">
+				<p>{{$basic->short}}</p>
+			</div>
+		@endif
+		@if (count($releases) > 0)
+			<h4>Releases</h4>
+			<div class="side-section">
+				@foreach ($releases as $release)
+					<p>{{$release->region}}: {{jdmonthname($release->month,0)}} {{$release->day}}, {{$release->year}}</p>
+				@endforeach
+			</div>
+		@endif
 		<h4>Technical Info</h4>
 		<div class="side-section">
 			<li>Mapper Number: {{$specs->mapper_number}} </li>
@@ -91,6 +95,7 @@
 			<li>CHR: {{$specs->prg}} </li>
 			<li>Mirroring: {{$specs->mirroring == 1 ? 'Horizontal' : 'Vertical'}} </li>
 		</div>
+		@if (count($hashes) > 0)
 		<h4>Known Hashes</h4>
 			@foreach ($hashes as $hash)
 			<div class="hashblock">
@@ -99,6 +104,7 @@
 				<p>{{$hash->description}}</p>
 			</div>
 			@endforeach
+		@endif
 	</div>
 </div>
 @endsection
