@@ -118,5 +118,28 @@ class GamesSeeder extends Seeder
             ]
         ]);
 
+        DB::table('nes_releases')->insert([
+            [
+                'game_id' => 3,
+                'year' => 1988,
+                'month' => 10,
+                'day' => 23,
+                'region' => 'Japan'
+            ],
+            [
+                'game_id' => 3,
+                'year' => 1990,
+                'month' => 2,
+                'day' => 9,
+                'region' => 'North America'
+            ],
+            [
+                'game_id' => 3,
+                'year' => 1991,
+                'month' => 8,
+                'day' => 29,
+                'region' => 'PAL'
+            ],
+        ]);
     }
 }

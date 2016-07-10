@@ -13,6 +13,7 @@ use App\NesSpecs;
 use App\NesHash;
 use App\NesCheat;
 use App\NesAchievement;
+use App\NesRelease;
 use App\Art;
 
 class GameController extends Controller
@@ -54,6 +55,10 @@ class GameController extends Controller
     		//Get Main Art
     		$main_art = Art::where('game_id','=',$game->id)->where('type','=','Main')->first();
 
+            //Get releases
+            $year = NesRelease::where('game_id','=',$game->id)->orderBy('year')->first()->year;
+            $releases = NesRelease::where('game_id','=',$game->id)->get();
+
     		return view('nes_game', [
     			'game' => $game,
     			'basic' => $basic,
@@ -61,7 +66,9 @@ class GameController extends Controller
     			'hashes' => $hashes,
     			'achievements' => $achievements,
     			'cheats' => $cheats,
-    			'main_art' => $main_art
+    			'main_art' => $main_art,
+                'year' => $year,
+                'releases' => $releases
     		]);
     	}
 

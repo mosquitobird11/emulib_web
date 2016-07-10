@@ -3,7 +3,7 @@
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateNesAchievementsTable extends Migration
+class CreateNesReleasesTable extends Migration
 {
     /**
      * Run the migrations.
@@ -12,16 +12,16 @@ class CreateNesAchievementsTable extends Migration
      */
     public function up()
     {
-        Schema::create('nes_achievements', function (Blueprint $table) {
+        Schema::create('nes_releases', function (Blueprint $table) {
             $table->increments('id');
             $table->integer('game_id');
-            $table->integer('neslocker_id');
-            $table->string('name');
-            $table->text('description')->nullable();
+            $table->integer('year');
+            $table->integer('month')->nullable();
+            $table->integer('day')->nullable();
+            $table->string('region')->nullable();
         });
-        Schema::table('nes_achievements', function ($table){
+        Schema::table('nes_releases', function ($table){
             $table->foreign('game_id')->references('id')->on('games');
-            $table->foreign('neslocker_id')->references('id')->on('neslockers');
         });
     }
 
@@ -32,6 +32,6 @@ class CreateNesAchievementsTable extends Migration
      */
     public function down()
     {
-        Schema::drop('nes_achievements');
+        Schema::drop('nes_releases');
     }
 }
