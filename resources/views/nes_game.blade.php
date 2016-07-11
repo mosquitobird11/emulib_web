@@ -14,6 +14,7 @@
 		{{$basic->long}} 
 		</div>
 
+		@if (count($achievements) > 0)
 		<h3>Achievements</h3>
 			<table class="table table-bordered table-striped">
 				<tr>
@@ -53,7 +54,9 @@
 					</tr>
 				@endforeach
 			</table>
+		@endif
 
+		@if (count($cheats) > 0)
 		<h3>Game Genie</h3>
 			<table class="table table-bordered table-striped">
 				<tr>
@@ -69,6 +72,7 @@
 					</tr>
 				@endforeach
 			</table>
+		@endif
 	</div>
 
 	<div class="col-md-4 sidebar">
