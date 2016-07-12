@@ -30,25 +30,25 @@
 						<td>
 							<!-- Check if there is a locked picture for this specific achievement -->
 							@if (file_exists(public_path('img/ach_'.$game->id.'_'.$achievement->id.'_locked.png')))
-								<img src="{{asset('img/ach_'.$game->id.'_'.$achievement->id.'_locked.png')}}">
+								<img src="{{asset('img/nes_achievements/ach_'.$game->id.'_'.$achievement->id.'_locked.png')}}">
 							<!-- Check if there is a general locked picture for this game -->
-							@elseif (file_exists(public_path('img/ach_'.$game->id.'_locked.png')))
-								<img src="{{asset('img/ach_'.$game->id.'_locked.png')}}">
+							@elseif (file_exists(public_path('img/nes_achievements/ach_'.$game->id.'_locked.png')))
+								<img src="{{asset('img/nes_achievements/ach_'.$game->id.'_locked.png')}}">
 							<!-- Use Site-wide ach default locked picture -->
 							@else
-								<img src="{{asset('img/ach_locked.png')}}">
+								<img src="{{asset('img/nes_achievements/ach_locked.png')}}">
 							@endif
 						</td>
 						<td>
 							<!-- Check if there is a unlocked picture for this specific achievement -->
-							@if (file_exists(public_path('img/ach_'.$game->id.'_'.$achievement->id.'_unlocked.png')))
-								<img src="{{asset('img/ach_'.$game->id.'_'.$achievement->id.'_unlocked.png')}}">
+							@if (file_exists(public_path('img/nes_achievements/ach_'.$game->id.'_'.$achievement->id.'_unlocked.png')))
+								<img src="{{asset('img/nes_achievements/ach_'.$game->id.'_'.$achievement->id.'_unlocked.png')}}">
 							<!-- Check if there is a general unlocked picture for this game -->
-							@elseif (file_exists(public_path('img/ach_'.$game->id.'_unlocked.png')))
-								<img src="{{asset('img/ach_'.$game->id.'_unlocked.png')}}">
+							@elseif (file_exists(public_path('img/nes_achievements/ach_'.$game->id.'_unlocked.png')))
+								<img src="{{asset('img/nes_achievements/ach_'.$game->id.'_unlocked.png')}}">
 							<!-- Use Site-wide ach default unlocked picture -->
 							@else
-								<img src="{{asset('img/ach_unlocked.png')}}">
+								<img src="{{asset('img/nes_achievements/ach_unlocked.png')}}">
 							@endif
 						</td>
 					</tr>
@@ -76,7 +76,7 @@
 	</div>
 
 	<div class="col-md-4 sidebar">
-		<img src="{{asset('img/'.$main_art->filename)}}" width="250">
+		<img src="{{asset('img/nes/'.$letter.'/nes_'.$assetname.'_Front.jpg')}}" width="250">
 		@if ($basic->short)
 			<h4>Summary</h4>
 			<div class="side-section">

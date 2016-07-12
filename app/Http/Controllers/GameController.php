@@ -52,12 +52,20 @@ class GameController extends Controller
     		//Get Nes Achievements
     		$achievements = NesAchievement::where('game_id','=',$game->id)->get();
 
-    		//Get Main Art
-    		$main_art = Art::where('game_id','=',$game->id)->where('type','=','Main')->first();
-
             //Get releases
             $year = NesRelease::where('game_id','=',$game->id)->orderBy('year')->first()->year;
             $releases = NesRelease::where('game_id','=',$game->id)->get();
+
+            //Get first letter of name for discovering related assets
+            if (is_numeric($game->name[0])){
+                $letter = 'num';
+            }else{
+                $letter = strtolower($game->name[0]);
+            }
+
+            //Get asset name
+            $assetname = preg_replace("/[^A-Za-z0-9 ]/", '', $game->name);
+            $assetname = strtolower(str_replace(' ', '-', $assetname));
 
     		return view('nes_game', [
     			'game' => $game,
@@ -66,9 +74,10 @@ class GameController extends Controller
     			'hashes' => $hashes,
     			'achievements' => $achievements,
     			'cheats' => $cheats,
-    			'main_art' => $main_art,
                 'year' => $year,
-                'releases' => $releases
+                'releases' => $releases,
+                'letter' => $letter,
+                'assetname' => $assetname
     		]);
     	}
 

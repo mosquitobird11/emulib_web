@@ -16,6 +16,7 @@ class CreateGamesTable extends Migration
             $table->increments('id');
             $table->string('name');
             $table->integer('type_id');
+            $table->string('filename')->nullable();
         });
         Schema::table('games', function ($table){
             $table->foreign('type_id')->references('id')->on('types');

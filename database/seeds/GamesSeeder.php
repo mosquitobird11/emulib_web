@@ -15,7 +15,8 @@ class GamesSeeder extends Seeder
         	[
 	        	'id' => 3,
 	            'name' => 'Super Mario Bros. 3',
-	            'type_id' => 1
+	            'type_id' => 1,
+                'filename' => null
         	]
         ]);
 
@@ -104,15 +105,6 @@ class GamesSeeder extends Seeder
                 'prg' => '16 x 16kB',
                 'chr' => '16 x 8kB',
                 'mirroring' => 1
-            ]
-        ]);
-
-        DB::table('arts')->insert([
-            [
-                'game_id' => 3,
-                'theme_id' => 1,
-                'type' => 'Main',
-                'filename' => 'nes_supermariobros3.jpg'
             ]
         ]);
 
