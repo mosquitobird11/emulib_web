@@ -85,11 +85,14 @@
 		@endif
 		@if (count($releases) > 0)
 			<h4>Releases</h4>
-			<div class="side-section">
+			<table class="table table-bordered table-striped">
 				@foreach ($releases as $release)
-					<p>{{$release->region}}: {{jdmonthname($release->month,0)}} {{$release->day}}, {{$release->year}}</p>
+					<tr>
+						<td><img src='{{asset($release->getFlag())}}' ></img> {{$release->region}}</td>
+						<td>{{jdmonthname($release->month,0)}} {{$release->day}}, {{$release->year}}</td>
+					</tr>
 				@endforeach
-			</div>
+			</table>
 		@endif
 		<h4>Technical Info</h4>
 		<div class="side-section">

@@ -38,3 +38,7 @@
 	border: 1px dashed #C0C0C0;
 	margin-bottom:8px;
 }
+
+.sidebar table{
+	text-align:left;
+}
