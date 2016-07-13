@@ -25,13 +25,7 @@ class Game extends Model
 		    $letter = strtolower($this->name[0]);
 		}
 
-		//Get asset name
-        $assetname = str_replace('&', 'and', $this->name);
-        $assetname = str_replace('-', ' ', $assetname);
-		$assetname = preg_replace("/[^A-Za-z0-9 ]/",'',$assetname);
-        $assetname = strtolower($assetname);
-        $assetname = str_replace(' the', '', $assetname);
-		$assetname = str_replace(' ', '-', $assetname);
+        $assetname = cleanName($name);
 
 		//NES
 		if ($this->type->name == 'NES'){
@@ -43,6 +37,25 @@ class Game extends Model
                 return asset($fullPath);
     		}
     	}
+    }
+
+    private function cleanName($name){
+        //Replace ampersand with alphabetic characters
+        $assetname = str_replace('&', 'and', $name);
+        //Remove dashes from title
+        $assetname = str_replace('-', ' ', $assetname);
+        //Strip all non-alphanumeric symbols
+        $assetname = preg_replace("/[^A-Za-z0-9 ]/",'',$assetname);
+        //Lowercase only
+        $assetname = strtolower($assetname);
+        //REWORK
+        $assetname = str_replace(' the', '', $assetname);
+        //Remove multiple whitespaces and replace with a single space
+        $assetname = preg_replace('!\s+!', ' ', $assetname);
+        //Turnspaces into dashes
+        $assetname = str_replace(' ', '-', $assetname);
+
+        return $assetname;
     }
 
 }
