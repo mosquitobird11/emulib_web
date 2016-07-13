@@ -26,7 +26,8 @@ class Game extends Model
 		}
 
 		//Get asset name
-		$assetname = preg_replace("/[^A-Za-z0-9 ]/",'',$this->name);
+        $assetname = str_replace('&', 'and', $this->name);
+		$assetname = preg_replace("/[^A-Za-z0-9 ]/",'',$assetname);
         $assetname = strtolower($assetname);
         $assetname = str_replace(' the', '', $assetname);
 		$assetname = str_replace(' ', '-', $assetname);
