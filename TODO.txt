@@ -1,0 +1,20 @@
+Game names:
+
+add an identifier for optional articles
+	eg: "3-D Battles of World Runner, The" => "[The] 3-D Battles of World Runner"
+		This returns only "3-D Battles of World Runner" for display and asset name, but also displays a gray-ish "The" above/before the title
+
+add an identifier for possesive titles
+	eg: "Adventures in the Magic Kingdom, Disney's " => "{Disney's} Adventures in the Magic Kingdom"
+		This returns only "Adventures in the Magic Kingdom" for display and asset name, but also displays a gray-ish "Disney's" above/before the title
+
+add an identifier for subtitles
+	The identifier DOES NOT CHANGE asset naming, but DOES change display styling
+
+	e.g. "Addams Family, The: Pugsley's Scavenger Hunt" => "[The] Addams Family ~Pugsley's Scavenger Hunt~"
+
+Meticulously fix all the assets and titles
+
+Add hashes
+
+Make a desktop app that can pull the NES db and compare hashes with a local folder
