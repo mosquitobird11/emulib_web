@@ -25,7 +25,7 @@ class Game extends Model
 		    $letter = strtolower($this->name[0]);
 		}
 
-        $assetname = cleanName($name);
+        $assetname = $this->cleanName($this->name);
 
 		//NES
 		if ($this->type->name == 'NES'){
