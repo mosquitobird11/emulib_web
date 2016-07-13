@@ -14,7 +14,7 @@
     <div class="col-sm-6 col-md-3">
 		<a href="{{url('game/3')}}">
 		<div class="thumbnail">
-			<img src="{{asset('img/'.$nes_game->arts()->where('type','=','Main')->first()->filename)}}" width=250/>
+			<img src="{{$nes_game->getDisplayImage('Front')}}" width=250/>
 			<div class="caption">
 				<p>{{$nes_game->name}}</p>
 			</div>

@@ -76,9 +76,9 @@
 	</div>
 
 	<div class="col-md-4 sidebar">
-		<img src="{{asset('img/nes/'.$letter.'/nes_'.$assetname.'_Front.jpg')}}" width="250">
+		<img src="{{$game->getDisplayImage('Front')}}" width="250">
 		@if ($basic->short)
-			<h4>Summary</h4>
+			<h4>Description</h4>
 			<div class="side-section">
 				<p>{{$basic->short}}</p>
 			</div>

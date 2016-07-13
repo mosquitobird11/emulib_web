@@ -56,17 +56,6 @@ class GameController extends Controller
             $year = NesRelease::where('game_id','=',$game->id)->orderBy('year')->first()->year;
             $releases = NesRelease::where('game_id','=',$game->id)->get();
 
-            //Get first letter of name for discovering related assets
-            if (is_numeric($game->name[0])){
-                $letter = 'num';
-            }else{
-                $letter = strtolower($game->name[0]);
-            }
-
-            //Get asset name
-            $assetname = preg_replace("/[^A-Za-z0-9 ]/", '', $game->name);
-            $assetname = strtolower(str_replace(' ', '-', $assetname));
-
     		return view('nes_game', [
     			'game' => $game,
     			'basic' => $basic,
@@ -75,9 +64,7 @@ class GameController extends Controller
     			'achievements' => $achievements,
     			'cheats' => $cheats,
                 'year' => $year,
-                'releases' => $releases,
-                'letter' => $letter,
-                'assetname' => $assetname
+                'releases' => $releases
     		]);
     	}
 

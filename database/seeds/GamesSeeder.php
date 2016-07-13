@@ -35,7 +35,8 @@ class GamesSeeder extends Seeder
         DB::table('nes_basics')->insert([
         	[
         		'id' => 1,
-        		'game_id' => 3
+        		'game_id' => 3,
+                'short' =>  "The third installment of the Super Mario Bros. Series brings new powerups, dangerous enemies, and exciting new worlds to explore!"
         	]
         ]);
 
