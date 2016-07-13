@@ -14,7 +14,7 @@ class NesRelease extends Model
 			$flag = 'europeanunion';
 		}
 		else{
-			$flag = file_exists(asset('img/flags/flag-').$this->region.'png') ? $this->region : 'unknown';
+			$flag = file_exists(public_path('img/flags/flag-').$this->region).'.png' ? $this->region : 'unknown';
 		}
 		$flag = 'img/flags/flag-'.$flag.'.png';
 		return $flag;
