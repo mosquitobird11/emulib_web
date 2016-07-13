@@ -13,6 +13,12 @@
 
 .caption{
     text-align:center;
-    height:64px;
-    overflow-y: auto;
+}
+
+.gameCard{
+    height:432px;
+}
+
+.thumbnail{
+    background-color:#EEEEEE;
 }
