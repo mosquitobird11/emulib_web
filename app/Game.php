@@ -20,7 +20,7 @@ class Game extends Model
     public function getDisplayImage($kind){
 		//Get first letter of name for discovering related assets
 		if (is_numeric($this->name[0])){
-		    $letter = 'num';
+		    $letter = '1';
 		}else{
 		    $letter = strtolower($this->name[0]);
 		}
