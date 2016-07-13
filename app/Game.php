@@ -27,7 +27,9 @@ class Game extends Model
 
 		//Get asset name
 		$assetname = preg_replace("/[^A-Za-z0-9 ]/",'',$this->name);
-		$assetname = strtolower(str_replace(' ', '-', $assetname));
+        $assetname = strtolower($assetname);
+        $assetname = str_replace(' the', '', $assetname);
+		$assetname = str_replace(' ', '-', $assetname);
 
 		//NES
 		if ($this->type->name == 'NES'){
