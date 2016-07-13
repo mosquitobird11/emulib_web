@@ -13,4 +13,6 @@
 
 .caption{
     text-align:center;
+    height:64px;
+    overflow-y: auto;
 }
