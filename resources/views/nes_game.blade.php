@@ -11,7 +11,9 @@
 	<div class="col-md-8">
 		<h1>{{$game->name}} ({{$year}})</h1>
 		<div>
-		{{$basic->long}} 
+		@if ($basic)
+			{{$basic->long}} 
+		@endif
 		</div>
 
 		@if (count($achievements) > 0)
@@ -77,11 +79,13 @@
 
 	<div class="col-md-4 sidebar">
 		<img src="{{$game->getDisplayImage('Front')}}" width="250">
-		@if ($basic->short)
-			<h4>Description</h4>
-			<div class="side-section">
-				<p>{{$basic->short}}</p>
-			</div>
+		@if ($basic){
+			@if ($basic->short)
+				<h4>Description</h4>
+				<div class="side-section">
+					<p>{{$basic->short}}</p>
+				</div>
+			@endif
 		@endif
 		@if (count($releases) > 0)
 			<h4>Releases</h4>
@@ -94,14 +98,16 @@
 				@endforeach
 			</table>
 		@endif
-		<h4>Technical Info</h4>
-		<div class="side-section">
-			<li>Mapper Number: {{$specs->mapper_number}} </li>
-			<li>Mapper Name: {{$specs->mapper_name}} </li>
-			<li>PRG: {{$specs->chr}} </li>
-			<li>CHR: {{$specs->prg}} </li>
-			<li>Mirroring: {{$specs->mirroring == 1 ? 'Horizontal' : 'Vertical'}} </li>
-		</div>
+		@if($specs)
+			<h4>Technical Info</h4>
+			<table class="table table-bordered table-striped">
+				<tr><td>Mapper Number</td><td>{{$specs->mapper_number}}</td></tr>
+				<tr><td>Mapper Name</td><td>{{$specs->mapper_name}}</td></tr>
+				<tr><td>PRG</td><td>{{$specs->chr}}</td></tr>
+				<tr><td>CHR</td><td>{{$specs->prg}}</td></tr>
+				<tr><td>Mirroring</td><td>{{$specs->mirroring == 1 ? 'Horizontal' : 'Vertical'}}</td></tr>
+			</table>
+		@endif
 		@if (count($hashes) > 0)
 		<h4>Known Hashes</h4>
 			@foreach ($hashes as $hash)

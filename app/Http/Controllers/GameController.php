@@ -23,7 +23,7 @@ class GameController extends Controller
     	$NES = Type::where('name','=','NES')->first();
 
     	//Get Games by type
-    	$nes_games = Game::where('type_id','=',$NES->id)->get();
+    	$nes_games = Game::where('type_id','=',$NES->id)->orderBy('name')->get();
 
     	//Return list view of games
     	return view('games', ['nes_games' => $nes_games]);
@@ -53,7 +53,12 @@ class GameController extends Controller
     		$achievements = NesAchievement::where('game_id','=',$game->id)->get();
 
             //Get releases
-            $year = NesRelease::where('game_id','=',$game->id)->orderBy('year')->first()->year;
+            $years = NesRelease::where('game_id','=',$game->id)->orderBy('year')->first();
+            if (!empty($years)){
+                $year = $years->year;
+            }else{
+                $year = "----";
+            }
             $releases = NesRelease::where('game_id','=',$game->id)->get();
 
     		return view('nes_game', [

@@ -4,6 +4,20 @@ use Illuminate\Database\Seeder;
 
 class GamesSeeder extends Seeder
 {
+
+    //Get NES games titles to create stubs
+    public function getNesGames(){
+        $list = [];
+        $handle = fopen(public_path('lists/nes.txt'), "r");
+        if ($handle) {
+            while (($line = fgets($handle)) !== false) {
+                $list[] = $line;   
+            }
+            fclose($handle);
+        }
+        return $list;
+    }
+
     /**
      * Run the database seeds.
      *
@@ -11,15 +25,25 @@ class GamesSeeder extends Seeder
      */
     public function run()
     {
+        //get stubs
+        $nes_games = $this->getNesGames();
+
+        //NES STUB INSERTS
+        foreach ($nes_games as $g){
+            DB::table('games')->insert(['id' => null, 'name' => $g, 'type_id' => 1]);
+        }
+
+
+        //NES INSERTS (SMB3 As Data Test)
         DB::table('games')->insert([
         	[
 	        	'id' => 3,
 	            'name' => 'Super Mario Bros. 3',
-	            'type_id' => 1,
-                'filename' => null
-        	]
+	            'type_id' => 1
+        	],
         ]);
 
+        //NES INSERTS (SMB3 As Data Test)
         DB::table('neslockers')->insert([
         	[
 	        	'id' => 1
@@ -32,6 +56,7 @@ class GamesSeeder extends Seeder
         	]
         ]);
 
+        //NES INSERTS (SMB3 As Data Test)
         DB::table('nes_basics')->insert([
         	[
         		'id' => 1,
@@ -40,6 +65,7 @@ class GamesSeeder extends Seeder
         	]
         ]);
 
+        //NES INSERTS (SMB3 As Data Test)
         DB::table('nes_achievements')->insert([
         	[
 	        	'id' => 1,
@@ -64,6 +90,7 @@ class GamesSeeder extends Seeder
         	]
         ]);
 
+        //NES INSERTS (SMB3 As Data Test)
         DB::table('nes_cheats')->insert([
         	[
         		'id' => 1,
@@ -81,6 +108,7 @@ class GamesSeeder extends Seeder
         	]
         ]);
 
+        //NES INSERTS (SMB3 As Data Test)
         DB::table('nes_hashes')->insert([
             [
                 'game_id' => 3,
@@ -98,6 +126,7 @@ class GamesSeeder extends Seeder
             ]
         ]);
 
+        //NES INSERTS (SMB3 As Data Test)
         DB::table('nes_specs')->insert([
             [
                 'game_id' => 3,
@@ -109,6 +138,7 @@ class GamesSeeder extends Seeder
             ]
         ]);
 
+        //NES INSERTS (SMB3 As Data Test)
         DB::table('nes_releases')->insert([
             [
                 'game_id' => 3,
