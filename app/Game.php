@@ -27,6 +27,7 @@ class Game extends Model
 
 		//Get asset name
         $assetname = str_replace('&', 'and', $this->name);
+        $assetname = str_replace('-', ' ', $assetname);
 		$assetname = preg_replace("/[^A-Za-z0-9 ]/",'',$assetname);
         $assetname = strtolower($assetname);
         $assetname = str_replace(' the', '', $assetname);
@@ -38,7 +39,8 @@ class Game extends Model
 			If (file_exists(public_path($fullPath))){
     			return asset($fullPath);
     		}else{
-    			return asset('img/nes/nes_'.$kind.'.jpg');
+    			//return asset('img/nes/nes_'.$kind.'.jpg');
+                return asset($fullPath);
     		}
     	}
     }
