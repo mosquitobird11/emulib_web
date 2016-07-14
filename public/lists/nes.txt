@@ -4,12 +4,12 @@
 1943: The Battle of Midway
 3-D Battles of World Runner [The]
 8 Eyes
-A Nightmare on Elm Street
 Abadox: The Deadly Inner War
 Action 52
 Addams Family [The]
 Addams Family: Pugsley's Scavenger Hunt [The]
 Advanced Dungeons & Dragons: Dragon Strike
+Advanced Dungeons & Dragons: Dragons of Flame
 Advanced Dungeons & Dragons: Heroes of the Lance
 Advanced Dungeons & Dragons: Hillsfar
 Advanced Dungeons & Dragons: Pool of Radiance
@@ -18,7 +18,6 @@ Adventure Island 2
 Adventure Island 3
 Adventures in the Magic Kingdom {Disney's}
 Adventures of Bayou Billy [The]
-Adventures of Captain Comic [The]
 Adventures of Dino Riki
 Adventures of Gilligan's Island [The]
 Adventures of Lolo
@@ -39,13 +38,13 @@ Alpha Mission
 Amagon
 American Gladiators
 Anticipation
-Arch Rivals: A BASKETBRAWL!
+Arch Rivals
 Archon
 Arkanoid
 Arkista's Ring
 Astyanax
 Athena
-Athletic World, Family Fun Fitness
+Athletic World
 Attack of the Killer Tomatoes
 Baby Boomer
 Back to the Future
@@ -115,6 +114,7 @@ Caesar's Palace
 California Games
 Caltron 6-in-1
 Captain America and the Avengers
+Captain Comic
 Captain Planet and the Planeteers
 Captain Skyhawk
 Casino Kid
@@ -444,6 +444,7 @@ Mystery Quest
 NARC
 NASCAR Challenge {Bill Elliot's}
 NFL Football
+Nightmare on Elm Street [A]
 Nightshade
 Ninja Crusaders
 Ninja Gaiden
