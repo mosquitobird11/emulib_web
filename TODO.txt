@@ -18,3 +18,5 @@ Meticulously fix all the assets and titles
 Add hashes
 
 Make a desktop app that can pull the NES db and compare hashes with a local folder
+
+add identifying things for utility carts (game genie), and unlicensed carts (aladdin deck enhancer, tengen)
