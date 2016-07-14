@@ -10,13 +10,28 @@ add an identifier for possesive titles
 
 add an identifier for subtitles
 	The identifier DOES NOT CHANGE asset naming, but DOES change display styling
+	maybe just change the styling for the details pages not the list page
 
 	e.g. "Addams Family, The: Pugsley's Scavenger Hunt" => "[The] Addams Family ~Pugsley's Scavenger Hunt~"
 
 Meticulously fix all the assets and titles
 
+fix asset pulling for things like acheivement pictures
+	(add function in Game model)
+change relationship pulling for Models
+	(e.g. use elloquent instead of NesBasic::where(shit))
+
 Add hashes
 
 Make a desktop app that can pull the NES db and compare hashes with a local folder
 
+
+
+backlog:
+
 add identifying things for utility carts (game genie), and unlicensed carts (aladdin deck enhancer, tengen)
+better support for multi-carts
+support to show alternative names for games
+	including japanese/english translated localizations
+support for hacked roms
+	also translated roms as a special type of hacked roms

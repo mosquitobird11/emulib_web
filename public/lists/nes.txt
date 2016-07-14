@@ -48,7 +48,7 @@ Athletic World
 Attack of the Killer Tomatoes
 Baby Boomer
 Back to the Future
-Back to the Future 2 & 3
+Back to the Future Part 2 & 3
 Bad Dudes
 Bad News Baseball
 Bad Street Brawler
@@ -65,7 +65,7 @@ Baseball Stars
 Baseball Stars 2
 Bases Loaded
 Bases Loaded 2: Second Season
-Bases Loaded 3, Ryne Sandberg Plays
+Bases Loaded 3 {Ryne Sandberg Plays}
 Bases Loaded 4
 Batman: Return of the Joker
 Batman: The Video Game
@@ -252,7 +252,6 @@ Galaga: Demons of Death
 Galaxy 5000: Racing in the 51st Century
 Gargoyle's Quest 2
 Gauntlet
-Gauntlet
 Gauntlet 2
 Gemfire
 Genghis Khan
@@ -307,7 +306,6 @@ Immortal [The]
 Incredible Crash Dummies [The]
 Indiana Jones and the Last Crusade (Taito)
 Indiana Jones and the Last Crusade (Ubi)
-Indiana Jones and the Temple of Doom
 Indiana Jones and the Temple of Doom
 Indy Heat {Danny Sullivan's}
 Infiltrator
