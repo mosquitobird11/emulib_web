@@ -35,3 +35,6 @@ support to show alternative names for games
 	including japanese/english translated localizations
 support for hacked roms
 	also translated roms as a special type of hacked roms
+support for "prototypes" like cheetamen 2
+support for famicom
+cartiridge assets
