@@ -15,7 +15,7 @@ Advanced Dungeons & Dragons: Hillsfar
 Advanced Dungeons & Dragons: Pool of Radiance
 Adventure Island
 Adventure Island 3
-Adventure Island II
+Adventure Island 2
 Adventures in the Magic Kingdom, Disney's
 Adventures of Bayou Billy, The
 Adventures of Dino Riki
@@ -45,7 +45,7 @@ Athena
 Athletic World, Family Fun Fitness
 Attack of the Killer Tomatoes
 Back to the Future
-Back to the Future II & III
+Back to the Future 2 & 3
 Bad Dudes
 Bad News Baseball
 Bad Street Brawler
@@ -85,7 +85,7 @@ Blue Marlin
 Blues Brothers, The
 Bo Jackson Baseball
 Bomberman
-Bomberman II
+Bomberman 2
 Bonk's Adventure
 Boulder Dash
 Break Time, The National Pool Tour
@@ -105,13 +105,13 @@ Captain America and the Avengers
 Captain Planet and the Planeteers
 Captain Skyhawk
 Casino Kid
-Casino Kid II
+Casino Kid 2
 Castelian
 Castle of Dragon
 Castlequest
 Castlevania
-Castlevania II – Simon's Quest
-Castlevania III – Dracula's Curse
+Castlevania 2 – Simon's Quest
+Castlevania 3 – Dracula's Curse
 Caveman Games
 Championship Bowling
 Championship Pool – The Billiard Congress of America Presents
@@ -148,7 +148,7 @@ Dash Galaxy in the Alien Asylum
 Day Dreamin' Davey
 Days of Thunder
 Deadly Towers
-Defender II
+Defender 2
 Defender of the Crown
 Defenders of Dynatron City
 Deja Vu
@@ -168,8 +168,8 @@ Donkey Kong Jr.
 Donkey Kong Jr. Math
 Double Dare
 Double Dragon
-Double Dragon II – The Revenge
-Double Dragon III – The Sacred Stones
+Double Dragon 2 – The Revenge
+Double Dragon 3 – The Sacred Stones
 Double Dribble
 Dr. Chaos
 Dr. Jekyll and Mr. Hyde
@@ -180,8 +180,8 @@ Dragon Fighter
 Dragon Power
 Dragon Spirit, The New Legend
 Dragon Warrior
-Dragon Warrior II
-Dragon Warrior III
+Dragon Warrior 2
+Dragon Warrior 3
 Dragon Warrior IV
 Duck Hunt
 Duck Tales 2, Disney's
@@ -222,14 +222,14 @@ G.I. Joe: A Real American Hero
 G.I. Joe: The Atlantis Factor
 Galaga – Demons of Death
 Galaxy 5000 – Racing in the 51st Century
-Gargoyle's Quest II
+Gargoyle's Quest 2
 Gauntlet
-Gauntlet II
+Gauntlet 2
 Gemfire
 Genghis Khan
 Ghost Lion, Legend of
 Ghostbusters
-Ghostbusters II
+Ghostbusters 2
 Ghosts 'n Goblins
 Ghoul School
 Goal!
@@ -271,7 +271,7 @@ Ice Climber
 Ice Hockey
 Ikari Warriors
 Ikari Warriors II: Victory Road
-Ikari Warriors III: The Rescue
+Ikari Warriors 3: The Rescue
 Image Fight
 Immortal, The
 Incredible Crash Dummies, The
@@ -281,7 +281,7 @@ Indiana Jones and the Temple of Doom
 Indy Heat, Danny Sullivan's
 Infiltrator
 Iron Tank – The Invasion of Normandy
-Ironsword – Wizards & Warriors II
+Ironsword – Wizards & Warriors 2
 Isolated Warrior
 Jack Nicklaus' Greatest 18 Holes of Major Championship Golf
 Jackal
@@ -349,7 +349,7 @@ M.U.L.E.
 M.U.S.C.L.E. - Tag Team Match
 Mach Rider
 Mad Max
-Mafat Conspiracy, The: Golgo 13 II
+Mafat Conspiracy, The: Golgo 13 2
 Magic Darts
 Magic of Scheherazade, The
 Magician
@@ -402,10 +402,10 @@ Nightshade
 Ninja Crusaders
 Ninja Gaiden
 Ninja Gaiden II, The Dark Sword of Chaos
-Ninja Gaiden III, The Ancient Ship of Doom
+Ninja Gaiden 3, The Ancient Ship of Doom
 Ninja Kid
 Nobunaga's Ambition
-Nobunaga's Ambition II
+Nobunaga's Ambition 2
 North and South
 Open Tournament Golf, NES
 Operation Wolf, Take No Prisoners
@@ -432,7 +432,7 @@ Play Action Football, NES
 Popeye
 Power Blade
 Power Blade 2
-Power Punch II
+Power Punch 2
 Predator
 Prince of Persia
 Princess Tomato in the Salad Kingdom
@@ -446,11 +446,11 @@ Q*Bert
 Qix
 R.B.I. Baseball
 R.C. Pro-Am
-R.C. Pro-Am II
+R.C. Pro-Am 2
 Race America, Alex DeMeo's
 Racket Attack
 Rad Racer
-Rad Racer II
+Rad Racer 2
 Raid on Bungeling Bay
 Rainbow Islands
 Rally Bike
@@ -478,7 +478,7 @@ Rollerball
 Rollerblade Racer
 Rollergames
 Romance of the Three Kingdoms
-Romance of the Three Kingdoms II
+Romance of the Three Kingdoms 2
 Roundball 2-on-2 Challenge
 Rush'n Attack
 Rygar
@@ -534,7 +534,7 @@ Star Soldier
 Star Trek 25th Anniversary
 Star Trek: The Next Generation
 Star Tropics
-Star Tropics II – Zoda's Revenge
+Star Tropics 2 – Zoda's Revenge
 Star Voyager
 Star Wars
 Star Wars – The Empire Strikes Back
@@ -578,8 +578,8 @@ Tecmo Super Bowl
 Tecmo World Wrestling
 Teenage Mutant Ninja Turtles
 Teenage Mutant Ninja Turtles – Tournament Fighters
-Teenage Mutant Ninja Turtles II – The Arcade Game
-Teenage Mutant Ninja Turtles III – The Manhattan Project
+Teenage Mutant Ninja Turtles 2 – The Arcade Game
+Teenage Mutant Ninja Turtles 3 – The Manhattan Project
 Tennis
 Terminator
 Terra Cresta
@@ -607,7 +607,7 @@ Totally Rad
 Touchdown Fever
 Toxic Crusaders
 Track & Field
-Track & Field II
+Track & Field 2
 Treasure Master
 Trog!
 Trojan
@@ -649,7 +649,7 @@ Winter Games
 Wizardry Master Series II: Knight of Diamonds
 Wizardry Master Series: The Proving Grounds of the Mad Overlord
 Wizards & Warriors
-Wizards & Warriors III, Kurosâ€¦Visions of Power
+Wizards & Warriors 3, Kurosâ€¦Visions of Power
 Wolverine
 World Champ
 World Championship Racing, Nigel Mansell's
@@ -671,7 +671,7 @@ Yoshi
 Yoshi's Cookie
 Young Indiana Jones Chronicles, The
 Zanac
-Zelda II – The Adventure of Link
+Zelda 2 – The Adventure of Link
 Zen – Intergalactic Ninja
 Zombie Nation
 Alien Syndrome
@@ -690,7 +690,7 @@ Bubble Bath Babes
 Caltron 6–in–1
 Castle of Deceit
 Challenge of the Dragon
-Cheetahmen II
+Cheetahmen 2
 Chiller
 Crystal Mines
 Death Race
@@ -738,8 +738,8 @@ Quattro Sports
 Rad Racket
 Raid 2020
 RBI Baseball
-RBI Baseball II
-RBI Baseball III
+RBI Baseball 2
+RBI Baseball 3
 Road Runner
 Robo Demons
 Rolling Thunder
