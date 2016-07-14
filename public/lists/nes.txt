@@ -8,7 +8,7 @@ A Nightmare on Elm Street
 Abadox – The Deadly Inner War
 Action 52
 Addams Family [The]
-Addams Family, The: Pugsley's Scavenger Hunt
+Addams Family: Pugsley's Scavenger Hunt [The]
 Advanced Dungeons & Dragons: Dragon Strike
 Advanced Dungeons & Dragons: Heroes of the Lance
 Advanced Dungeons & Dragons: Hillsfar
@@ -73,7 +73,7 @@ Batman – The Video Game
 Batman Returns
 Battle Chess
 Battle of Olympus [The]
-Battle Tank, Garry Kitchen's
+Battle Tank {Garry Kitchen's}
 Battleship
 Battletoads
 Battletoads & Double Dragon
@@ -99,7 +99,7 @@ Bomberman 2
 Bonk's Adventure
 Boulder Dash
 Boy and His Blob – Trouble on Blobolonia {David Crane's} [A]
-Break Time, The National Pool Tour
+Break Time: The National Pool Tour
 Breakthru
 Bubble Bath Babes
 Bubble Bobble
@@ -133,8 +133,8 @@ Championship Pool – The Billiard Congress of America Presents
 Cheetahmen 2
 Chessmaster [The]
 Chiller
-Chip 'n Dale Rescue Rangers 2 {Disney's}
 Chip 'n Dale Rescue Rangers {Disney's}
+Chip 'n Dale Rescue Rangers 2 {Disney's}
 Chubby Cherub
 Circus Caper
 City Connection
@@ -158,7 +158,7 @@ Crash 'n' the Boys: Street Challenge
 Crystal Mines
 Crystalis
 Cyberball
-Cybernoid, The Fighting Machine
+Cybernoid: The Fighting Machine
 Dance Aerobics
 Darkman
 Darkwing Duck {Disney's}
@@ -178,8 +178,8 @@ Destination Earthstar
 Destiny of an Emperor
 Dick Tracy
 Die Hard
-Dig Dug II, Trouble in Paradise
-Digger T. Rock, The Legend of the Lost City
+Dig Dug 2: Trouble in Paradise
+Digger T. Rock: The Legend of the Lost City
 Dirty Harry: The War Against Drugs
 Donkey Kong
 Donkey Kong 3
@@ -195,22 +195,22 @@ Double Strike
 Dr. Chaos
 Dr. Jekyll and Mr. Hyde
 Dr. Mario
-Dracula, Bram Stoker's
+Dracula {Bram Stoker's}
 Dragon Fighter
 Dragon Power
-Dragon Spirit, The New Legend
+Dragon Spirit: The New Legend
 Dragon Warrior
 Dragon Warrior 2
 Dragon Warrior 3
 Dragon Warrior IV
 Dragon's Lair, Sullivan Bluth Presents
 Duck Hunt
-Duck Tales 2 {Disney's}
 Duck Tales {Disney's}
+Duck Tales 2 {Disney's}
 Dudes With Attitude
 Dungeon Magic – Sword of the Elements
 Dusty Diamond's All-Star Softball
-Dynowarz, The Destruction of Spondylus
+Dynowarz: The Destruction of Spondylus
 Elevator Action
 Eliminator Boat Duel
 Excitebike
@@ -222,12 +222,12 @@ Family Feud
 Fantastic Adventures of Dizzy [The]
 Fantasy Zone
 Faria, A World of Mystery & Danger!
-Fast Break, Magic Johnson's
+Fast Break {Magic Johnson's}
 Faxanadu
 Felix the Cat
 Ferrari Grand Prix Challenge
 Fester's Quest
-Fighting Golf, Lee Trevino's
+Fighting Golf {Lee Trevino's}
 Final Fantasy
 Fire 'n Ice
 Firehawk
@@ -236,8 +236,8 @@ Fisher-Price: I Can Remember
 Fisher-Price: Perfect Fit
 Fist of the North Star
 Flight of the Intruder
-Flintstones, The – Rescue of Dino & Hoppy
-Flintstones, The – The Surprise at Dinosaur Peak
+Flintstones – Rescue of Dino & Hoppy [The]
+Flintstones – The Surprise at Dinosaur Peak [The]
 Flying Dragon: The Secret Scroll
 Flying Warriors
 Formula One: Built to Win
@@ -268,9 +268,9 @@ Godzilla 2: War of the Monsters
 Gold Medal Challenge '92
 Golf
 Golf Grand Slam
-Golf Power, Greg Norman's
+Golf Power {Greg Norman's}
 Golgo 13: Top Secret Episode
-Goonies II [The]
+Goonies 2 [The]
 Gotcha! The Sport!
 Gradius
 Great Waldo Search [The]
@@ -300,8 +300,8 @@ Hydlide
 Ice Climber
 Ice Hockey
 Ikari Warriors
+Ikari Warriors 2: Victory Road
 Ikari Warriors 3: The Rescue
-Ikari Warriors II: Victory Road
 Image Fight
 Immortal [The]
 Incredible Crash Dummies [The]
@@ -309,7 +309,7 @@ Indiana Jones and the Last Crusade (Taito)
 Indiana Jones and the Last Crusade (Ubi)
 Indiana Jones and the Temple of Doom
 Indiana Jones and the Temple of Doom
-Indy Heat, Danny Sullivan's
+Indy Heat {Danny Sullivan's}
 Infiltrator
 Iron Tank – The Invasion of Normandy
 Ironsword – Wizards & Warriors 2
@@ -322,15 +322,14 @@ Jaws
 Jeopardy!
 Jeopardy! 25th Anniversary Edition
 Jeopardy! Jr. Edition
-Jetsons, The – Cogswell's Caper
+Jetsons – Cogswell's Caper [The]
 Jimmy Connors Tennis
 Joe & Mac
-John Elway's Quarterback
 Jordan vs. Bird: One on One
 Joshua and the Battle of Jericho
 Journey to Silius
 Joust
-Jungle Book, The {Disney's}
+Jungle Book [The] {Disney's}
 Jurassic Park
 Kabuki – Quantum Fighter
 Karate Champ
@@ -352,7 +351,7 @@ Kiwi Kraze, A Bird-Brained Adventure!
 Klash Ball
 Klax
 Knight Rider
-KO Boxing, George Foreman's
+KO Boxing {George Foreman's}
 Krazy Kreatures
 Krion Conquest [The]
 Kung Fu
@@ -365,14 +364,14 @@ Legacy of the Wizard
 Legend of Kage [The]
 Legend of Zelda [The]
 Legendary Wings [The]
-Legends of the Diamond, The Baseball Championship Game
+Legends of the Diamond
 Lemmings
 L'Empereur
 Lethal Weapon
 Life Force
 Linus Spacehead's Cosmic Crusade
 Little League Baseball: Championship Series
-Little Mermaid, The {Disney's}
+Little Mermaid [The] {Disney's}
 Little Nemo – The Dream Master
 Little Ninja Brothers
 Little Red Hood
@@ -387,7 +386,7 @@ M.U.L.E.
 M.U.S.C.L.E. - Tag Team Match
 Mach Rider
 Mad Max
-Mafat Conspiracy, The: Golgo 13 2
+Mafat Conspiracy [The]
 Magic Darts
 Magic of Scheherazade [The]
 Magician
@@ -396,7 +395,7 @@ Major League Baseball
 Maniac Mansion
 Mappy-Land
 Marble Madness
-Mario Bros., The Original
+Mario Bros.
 Mario Is Missing!
 Mario's Time Machine
 Marvel's X-Men
@@ -426,7 +425,6 @@ Mig-29 Soviet Fighter
 Might & Magic: Secret of the Inner Sanctum
 Mighty Bombjack
 Mighty Final Fight
-Mike Tyson's Punch-Out!!
 Millipede
 Milon's Secret Castle
 Miracle Piano Teaching System [The]
@@ -440,17 +438,17 @@ Moon Ranger
 Motor City Patrol
 Ms. Pac-Man
 Ms. Pac-Man (Tengen)
-Muppet Adventure: Chaos at the Carnival, Jim Henson's
+Muppet Adventure: Chaos at the Carnival {Jim Henson's}
 Mutant Virus [The]
 Mystery Quest
 NARC
-NASCAR Challenge, Bill Elliot's
+NASCAR Challenge {Bill Elliot's}
 NFL Football
 Nightshade
 Ninja Crusaders
 Ninja Gaiden
-Ninja Gaiden 3, The Ancient Ship of Doom
-Ninja Gaiden II, The Dark Sword of Chaos
+Ninja Gaiden 2: The Dark Sword of Chaos
+Ninja Gaiden 3: The Ancient Ship of Doom
 Ninja Kid
 Nobunaga's Ambition
 Nobunaga's Ambition 2
@@ -472,7 +470,7 @@ Paperboy
 Paperboy 2
 Peek-A-Boo Poker
 Pesterminator
-Peter Pan & The Pirates: The Revenge of Captain Hook, Fox's
+Peter Pan & The Pirates: The Revenge of Captain Hook {Fox's}
 Phantom Fighter
 Pictionary
 Pinball
@@ -493,6 +491,7 @@ Princess Tomato in the Salad Kingdom
 Pro Sport Hockey
 Pro Wrestling
 Punch-Out!!
+Punch-Out!! {Mike Tyson's}
 Punisher [The]
 Puss N' Boots: Pero's Great Adventure
 Puzzle
@@ -501,13 +500,14 @@ Puzznic
 Pyramid
 Q*Bert
 Qix
+Quarterback {John Elway's}
 Quattro Adventure
 Quattro Arcade
 Quattro Sports
 R.B.I. Baseball
 R.C. Pro-Am
 R.C. Pro-Am 2
-Race America, Alex DeMeo's
+Race America {Alex DeMeo's}
 Racket Attack
 Rad Racer
 Rad Racer 2
@@ -523,7 +523,7 @@ RBI Baseball
 RBI Baseball 2
 RBI Baseball 3
 Remote Control
-Ren & Stimpy Show, The: Buckeroo$!
+Ren & Stimpy Show: Buckeroo$! [The]
 Renegade
 Rescue – The Embassy Mission
 Ring King
@@ -571,12 +571,12 @@ Side Pocket
 Silent Service
 Silk Worm
 Silver Surfer
-Simpsons, The – Bart Vs. the Space Mutants
-Simpsons, The – Bart Vs. the World
-Simpsons, The – Bartman Meets Radioactive Man
-Simpsons, The – Krusty's Fun House
+Simpsons – Bart Vs. the Space Mutants [The]
+Simpsons – Bart Vs. the World [The]
+Simpsons – Bartman Meets Radioactive Man [The]
+Simpsons – Krusty's Fun House [The]
 Skate or Die
-Skate or Die 2, The Search for Double Trouble
+Skate or Die 2: The Search for Double Trouble
 Ski or Die
 Skull & Crossbones
 Sky Kid
@@ -629,7 +629,7 @@ Super Mario Bros.
 Super Mario Bros. - Duck Hunt
 Super Mario Bros. - Duck Hunt – World Class Track Meet
 Super Mario Bros. 2
-Super Off Road, Ivan “Ironman” Stewart's
+Super Off Road {Ivan “Ironman” Stewart's}
 Super Pitfall
 Super Spike V'Ball
 Super Spike V'Ball / World Cup Soccer
@@ -640,7 +640,7 @@ Superman
 Swamp Thing
 Sword Master
 Swords and Serpents
-T & C II: Thrilla's Surfari
+T & C 2: Thrilla's Surfari
 T & C Surf Designs
 T2 Terminator 2: Judgment Day
 Taboo – The Sixth Sense
@@ -733,13 +733,13 @@ Wild Gunman
 Willow
 Win, Lose or Draw
 Winter Games
-Wizardry Master Series II: Knight of Diamonds
+Wizardry Master Series 2: Knight of Diamonds
 Wizardry Master Series: The Proving Grounds of the Mad Overlord
 Wizards & Warriors
-Wizards & Warriors 3, Kurosâ€¦Visions of Power
+Wizards & Warriors 3: Kuros: Visions of Power
 Wolverine
 World Champ
-World Championship Racing, Nigel Mansell's
+World Championship Racing {Nigel Mansell's}
 World Class Track Meet
 World Cup, Nintendo
 World Games
