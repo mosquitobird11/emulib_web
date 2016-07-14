@@ -16,7 +16,22 @@
 		<div class="thumbnail">
 			<img src="{{$nes_game->getDisplayImage('Front')}}" width=250/>
 			<div class="caption">
-				<p>{{$nes_game->name}}</p>
+				<span>
+				<?php 
+					$possessives = $nes_game->getPossessives();
+					$articles = $nes_game->getArticles();
+				 ?>
+				@if (!empty($possessives))
+					<span class="article">{{$possessives[0]}}</span>
+				@endif
+				@if (!empty($articles))
+					<span class="article">{{$articles[0]}}</span>
+				@endif
+				@if (!empty($possessives)||!empty($articles))
+					<br>
+				@endif
+				{{$nes_game->getDisplayName()}}
+				</span>
 			</div>
 		</div>
 		</a>

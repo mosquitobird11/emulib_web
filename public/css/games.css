@@ -17,8 +17,13 @@
 
 .gameCard{
     height:432px;
+    font-size:80%;
 }
 
 .thumbnail{
     background-color:#EEEEEE;
+}
+
+.article{
+    color:#AAAAAA;
 }
