@@ -67,9 +67,9 @@ Bases Loaded
 Bases Loaded 2: Second Season
 Bases Loaded 3 {Ryne Sandberg Plays}
 Bases Loaded 4
+Batman Returns
 Batman: Return of the Joker
 Batman: The Video Game
-Batman Returns
 Battle Chess
 Battle of Olympus [The]
 Battle Tank {Garry Kitchen's}
@@ -262,8 +262,8 @@ Ghosts 'n Goblins
 Ghoul School
 Goal!
 Goal! 2
-Godzilla: Monster of Monsters!
 Godzilla 2: War of the Monsters
+Godzilla: Monster of Monsters!
 Gold Medal Challenge '92
 Golf
 Golf Grand Slam
@@ -273,6 +273,7 @@ Goonies 2 [The]
 Gotcha! The Sport!
 Gradius
 Great Waldo Search [The]
+Greatest 18 Holes of Major Championship Golf {Jack Nicklaus'}
 Gremlins 2: The New Batch
 Guardian Legend [The]
 Guerrilla War
@@ -312,14 +313,13 @@ Infiltrator
 Iron Tank: The Invasion of Normandy
 Ironsword: Wizards & Warriors 2
 Isolated Warrior
-Jack Nicklaus' Greatest 18 Holes of Major Championship Golf
 Jackal
 Jackie Chan's Action Kung Fu
 James Bond Jr.
 Jaws
 Jeopardy!
 Jeopardy! 25th Anniversary Edition
-Jeopardy! Jr. Edition
+Jeopardy! Junior Edition
 Jetsons: Cogswell's Caper [The]
 Jimmy Connors Tennis
 Joe & Mac
@@ -336,16 +336,16 @@ Karnov
 Kickle Cubicle
 Kickmaster
 Kid Icarus
-Kid Klown in Night Mayor World
-Kid Kool and the Quest for the Seven Wonder Herbs
+Kid Klown: in Night Mayor World
+Kid Kool: and the Quest for the Seven Wonder Herbs
 Kid Niki: Radical Ninja
 King Neptune's Adventure
 King of Kings [The]
 King's Knight
-Kings of the Beach Professional Beach Volleyball
+Kings of the Beach: Professional Beach Volleyball
 King's Quest V
 Kirby's Adventure
-Kiwi Kraze, A Bird-Brained Adventure!
+Kiwi Kraze: A Bird-Brained Adventure!
 Klash Ball
 Klax
 Knight Rider
@@ -652,9 +652,9 @@ Tecmo NBA Basketball
 Tecmo Super Bowl
 Tecmo World Wrestling
 Teenage Mutant Ninja Turtles
-Teenage Mutant Ninja Turtles: Tournament Fighters
 Teenage Mutant Ninja Turtles 2: The Arcade Game
 Teenage Mutant Ninja Turtles 3: The Manhattan Project
+Teenage Mutant Ninja Turtles: Tournament Fighters
 Tennis
 Terminator
 Terra Cresta

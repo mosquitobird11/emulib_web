@@ -1,18 +1,19 @@
 Game names:
 
 add an identifier for optional articles
-	eg: "3-D Battles of World Runner, The" => "[The] 3-D Battles of World Runner"
+	eg: "3-D Battles of World Runner, The" => "3-D Battles of World Runner [The]"
 		This returns only "3-D Battles of World Runner" for display and asset name, but also displays a gray-ish "The" above/before the title
 
 add an identifier for possesive titles
-	eg: "Adventures in the Magic Kingdom, Disney's " => "{Disney's} Adventures in the Magic Kingdom"
+	eg: "Adventures in the Magic Kingdom, Disney's " => "Adventures in the Magic Kingdom {Disney's}"
 		This returns only "Adventures in the Magic Kingdom" for display and asset name, but also displays a gray-ish "Disney's" above/before the title
 
 add an identifier for subtitles
 	The identifier DOES NOT CHANGE asset naming, but DOES change display styling
 	maybe just change the styling for the details pages not the list page
 
-	e.g. "Addams Family, The: Pugsley's Scavenger Hunt" => "[The] Addams Family ~Pugsley's Scavenger Hunt~"
+	e.g. "Addams Family: Pugsley's Scavenger Hunt [the]" (use after ':')
+	MAKE SURE TO CONVERT FROM COMMAS TO COLONS EVERYWHERE
 
 Meticulously fix all the assets and titles
 
@@ -21,10 +22,24 @@ fix asset pulling for things like acheivement pictures
 change relationship pulling for Models
 	(e.g. use elloquent instead of NesBasic::where(shit))
 
+change seeding to use lists everywhere
+
 Add hashes
 
 Make a desktop app that can pull the NES db and compare hashes with a local folder
 
+
+List Display:
+	Add front/back/side selector buttons
+	Paginate by alphabet
+
+
+Asset restoration:
+	make a way to shuffle assets and present them and I type 1-10 on keyboard to rate their quality so I can have a list of assets that I need to restore or find better versions
+	maybe show rating on site somewhere
+
+Asset use:
+	find some way to discover if there are games that I have assets for that are not included in the gamelist
 
 
 backlog:
@@ -38,3 +53,6 @@ support for hacked roms
 support for "prototypes" like cheetamen 2
 support for famicom
 cartiridge assets
+screenshot assets
+
+
