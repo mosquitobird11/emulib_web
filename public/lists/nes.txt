@@ -440,6 +440,7 @@ Mystery Quest
 NARC
 NASCAR Challenge {Bill Elliot's}
 NES Open Tournament Golf
+NES Play Action Football
 NFL Football
 Nightmare on Elm Street [A]
 Nightshade
@@ -475,7 +476,6 @@ Pin-Bot
 Pipe Dream
 Pirates!
 Platoon
-Play Action Football, NES
 Popeye
 Power Blade
 Power Blade 2
@@ -505,7 +505,7 @@ Race America {Alex DeMeo's}
 Racket Attack
 Rad Racer
 Rad Racer 2
-Rad Racket
+Rad Racket: Deluxe Tennis 2
 Raid 2020
 Raid on Bungeling Bay
 Rainbow Islands
@@ -525,7 +525,7 @@ River City Ransom
 Road Runner
 RoadBlasters
 Robin Hood: Prince of Thieves
-Robo Demons
+RoboDemons
 RoboCop
 RoboCop 2
 RoboCop 3

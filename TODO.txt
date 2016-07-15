@@ -32,11 +32,13 @@ Make a desktop app that can pull the NES db and compare hashes with a local fold
 List Display:
 	Add front/back/side selector buttons
 	Paginate by alphabet
+	Size of images (small/med/large?)
 
 
 Asset restoration:
 	make a way to shuffle assets and present them and I type 1-10 on keyboard to rate their quality so I can have a list of assets that I need to restore or find better versions
 	maybe show rating on site somewhere
+	also have a way to tell what assets a game is missing (back/side/cart/etc)
 
 Asset use:
 	find some way to discover if there are games that I have assets for that are not included in the gamelist
