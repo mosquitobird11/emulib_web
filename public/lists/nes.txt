@@ -255,7 +255,7 @@ Gauntlet
 Gauntlet 2
 Gemfire
 Genghis Khan
-Ghost Lion, Legend of
+Ghost Lion
 Ghostbusters
 Ghostbusters 2
 Ghosts 'n Goblins
@@ -278,7 +278,7 @@ Guardian Legend [The]
 Guerrilla War
 Gumshoe
 Gun.Smoke
-GunNac
+Gun-Nac
 Gyromite
 Gyruss
 Harlem Globetrotters
@@ -292,7 +292,7 @@ Home Alone
 Home Alone 2: Lost in New York
 Hook
 Hoops
-Hot Slot
+Hot Slots
 Hudson Hawk
 Hunt for Red October [The]
 Hydlide
@@ -305,7 +305,7 @@ Image Fight
 Immortal [The]
 Incredible Crash Dummies [The]
 Indiana Jones and the Last Crusade (Taito)
-Indiana Jones and the Last Crusade (Ubi)
+Indiana Jones and the Last Crusade (Ubisoft)
 Indiana Jones and the Temple of Doom
 Indy Heat {Danny Sullivan's}
 Infiltrator
