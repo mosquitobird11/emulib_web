@@ -388,7 +388,7 @@ Mafat Conspiracy [The]
 Magic Darts
 Magic of Scheherazade [The]
 Magician
-Magmax
+MagMax
 Major League Baseball
 Maniac Mansion
 Mappy-Land
@@ -396,8 +396,7 @@ Marble Madness
 Mario Bros.
 Mario Is Missing!
 Mario's Time Machine
-Marvel's X-Men
-Master Chu
+Master Chu and the Drunkard Hu
 Maxi 15
 Mechanized Attack
 Mega Man
@@ -408,13 +407,12 @@ Mega Man 5
 Mega Man 6
 Menace Beach
 Mendel Palace
-Mermaids of Atlantis
+Mermaids of Atlantis: The Riddle of the Magic Bubble
 Metal Fighter
 Metal Gear
-Metal Mech, Man & Machine
+Metal Mech: Man & Machine
 Metal Storm
 Metroid
-Michael Andretti's World GP
 Mickey Mousecapade
 Mickey's Adventure in Numberland
 Mickey's Safari in Letterland
@@ -441,6 +439,7 @@ Mutant Virus [The]
 Mystery Quest
 NARC
 NASCAR Challenge {Bill Elliot's}
+NES Open Tournament Golf
 NFL Football
 Nightmare on Elm Street [A]
 Nightshade
@@ -452,15 +451,13 @@ Ninja Kid
 Nobunaga's Ambition
 Nobunaga's Ambition 2
 North and South
-Open Tournament Golf, NES
 Operation Secret Storm
 Operation Wolf, Take No Prisoners
-ORB 3-D
+ORB 3D
 Othello
 Overlord
-P.O.W. - Prisoners of War
+P.O.W.: Prisoners of War
 Pac-Man (Namco)
-Pac-Man (Tengen)
 Pac-Man (Tengen)
 Pac-Mania
 Palamedes
@@ -699,6 +696,7 @@ Ultimate Air Combat
 Ultimate Basketball
 Ultimate League Soccer
 Ultimate Stuntman [The]
+Uncanny X-Men {Marvel's} [The]
 Uncharted Waters
 Uninvited
 Untouchables [The]
@@ -740,6 +738,7 @@ World Championship Racing {Nigel Mansell's}
 World Class Track Meet
 World Cup, Nintendo
 World Games
+World Grand Prix {Michael Andretti's}
 Wrath of the Black Manta
 Wrecking Crew
 Wurm: Journey to the Center of the Earth
