@@ -79,7 +79,7 @@
 
 	<div class="col-md-4 sidebar">
 		<img src="{{$game->getDisplayImage('Front')}}" width="250">
-		@if ($basic){
+		@if ($basic)
 			@if ($basic->short)
 				<h4>Description</h4>
 				<div class="side-section">
