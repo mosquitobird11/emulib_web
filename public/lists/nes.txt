@@ -311,7 +311,6 @@ Indiana Jones and the Temple of Doom
 Indy Heat {Danny Sullivan's}
 Infiltrator
 Iron Tank: The Invasion of Normandy
-Ironsword: Wizards & Warriors 2
 Isolated Warrior
 Jackal
 Jackie Chan's Action Kung Fu
@@ -352,6 +351,7 @@ Knight Rider
 KO Boxing {George Foreman's}
 Krazy Kreatures
 Krion Conquest [The]
+Krusty's Fun House
 Kung Fu
 Kung Fu Heroes
 Laser Invasion
@@ -449,6 +449,7 @@ Ninja Gaiden
 Ninja Gaiden 2: The Dark Sword of Chaos
 Ninja Gaiden 3: The Ancient Ship of Doom
 Ninja Kid
+Nintendo World Cup
 Nobunaga's Ambition
 Nobunaga's Ambition 2
 North and South
@@ -545,12 +546,12 @@ Roundball 2-on-2 Challenge
 Rush'n Attack
 Rygar
 S.C.A.T.
-Secret Scout
+Secret Scout: In The Temple of Demise
 Section-Z
 Seicross
 Sesame Street: 123
 Sesame Street: ABC
-Sesame Street: ABC/123
+Sesame Street: ABC & 123
 Sesame Street: Big Bird's Hide & Speak
 Sesame Street: Countdown
 Shadow of the Ninja
@@ -560,7 +561,7 @@ Shingen the Ruler
 Shinobi
 Shock Wave
 Shooting Range
-Short Order/Eggsplode
+Short Order & Eggsplode
 Side Pocket
 Silent Service
 Silk Worm
@@ -568,7 +569,6 @@ Silver Surfer
 Simpsons: Bart Vs. the Space Mutants [The]
 Simpsons: Bart Vs. the World [The]
 Simpsons: Bartman Meets Radioactive Man [The]
-Simpsons: Krusty's Fun House [The]
 Skate or Die
 Skate or Die 2: The Search for Double Trouble
 Ski or Die
@@ -613,20 +613,20 @@ Street Cop
 Street Fighter 2010: The Final Fight
 Strider
 Stunt Kids
-Sunday Funday
+Sunday Funday: The Ride
 Super C
 Super Cars
 Super Dodge Ball
 Super Glove Ball
-Super Jeopardy!, Talking
+Super Jeopardy!
 Super Mario Bros.
-Super Mario Bros. - Duck Hunt
-Super Mario Bros. - Duck Hunt - World Class Track Meet
+Super Mario Bros. & Duck Hunt
+Super Mario Bros. & Duck Hunt & World Class Track Meet
 Super Mario Bros. 2
-Super Off Road {Ivan “Ironman” Stewart's}
+Super Off Road {Ivan Ironman Stewart's}
 Super Pitfall
-Super Spike V'Ball
-Super Spike V'Ball / World Cup Soccer
+Super Spike V-Ball
+Super Spike V-Ball & Nintendo World Cup
 Super Sprint
 Super Spy Hunter
 Super Team Games
@@ -634,9 +634,9 @@ Superman
 Swamp Thing
 Sword Master
 Swords and Serpents
-T & C 2: Thrilla's Surfari
-T & C Surf Designs
-T2 Terminator 2: Judgment Day
+Town & Country Surf Designs: Thrilla's Surfari
+Town & Country Surf Designs: Wood & Water Rage
+Terminator 2: Judgment Day
 Taboo: The Sixth Sense
 Tag Team Wrestling
 Tagin' Dragon
@@ -668,7 +668,7 @@ Time Lord
 Times of Lore
 Tiny Toon Adventures
 Tiny Toon Adventures 2: Trouble in Wackyland
-Tiny Toon Cartoon Workshop
+Tiny Toon Adventures: Cartoon Workshop
 To The Earth
 Toki
 Tom & Jerry: The Ultimate Game of Cat and Mouse!
@@ -676,7 +676,7 @@ Tombs & Treasure
 Toobin
 Top Gun
 Top Gun: The Second Mission
-Top Players' Tennis, Chris Evert & Ivan Lendl in
+Top Players' Tennis {Chris Evert and Ivan Lendl in}
 Total Recall
 Totally Rad
 Touchdown Fever
@@ -731,12 +731,12 @@ Winter Games
 Wizardry Master Series 2: Knight of Diamonds
 Wizardry Master Series: The Proving Grounds of the Mad Overlord
 Wizards & Warriors
-Wizards & Warriors 3: Kuros: Visions of Power
+Wizards & Warriors 2: Ironsword
+Wizards & Warriors 3: Kuros Visions of Power
 Wolverine
 World Champ
 World Championship Racing {Nigel Mansell's}
 World Class Track Meet
-World Cup, Nintendo
 World Games
 World Grand Prix {Michael Andretti's}
 Wrath of the Black Manta
